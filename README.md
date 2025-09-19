@@ -70,7 +70,8 @@ Sigue estos pasos para configurar el proyecto localmente:
 
 3. Crea un archivo .env.local con la configuración variables de entorno necesarias.
     ```bash
-    REACT_APP_API_BASE_URL=http://localhost:5143/api
+    REACT_APP_API_BASE_URL=http://localhost:5143/api o 
+    REACT_APP_API_BASE_URL=https://localhost:7202/api
 
 ### Scripts Disponibles
 En el directorio del proyecto, puedes ejecutar:
