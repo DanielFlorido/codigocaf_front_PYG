@@ -173,7 +173,7 @@ const PYGSHEET = () => {
       try {
         const options = {
           headers: {
-            "x-client-id": 27,
+            "x-client-id": selectedClientId,
           },
         };
 
@@ -192,7 +192,7 @@ const PYGSHEET = () => {
       try {
         const options = {
           headers: {
-            "x-client-id": 27,
+            "x-client-id": selectedClientId,
           },
         };
 
